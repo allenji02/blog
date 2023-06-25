@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - AllenJi&#39;s Blog</title>
+        <link>http://example.org/tags/</link>
+        <description>Tags - Tag - AllenJi&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 14 Mar 2023 19:35:31 &#43;0800</lastBuildDate><atom:link href="http://example.org/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>HBU</title>
+    <link>http://example.org/tags/hbu/</link>
+    <pubDate>Tue, 14 Mar 2023 19:35:31 &#43;0800</pubDate>
+    <author>AllenJi</author>
+    <guid>http://example.org/tags/hbu/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

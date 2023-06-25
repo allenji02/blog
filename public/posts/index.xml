@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - AllenJi&#39;s Blog</title>
+        <link>http://example.org/posts/</link>
+        <description>All Posts | AllenJi&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 14 Mar 2023 19:35:31 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>[HBU]人工智能基础实验报告</title>
+    <link>http://example.org/posts/hbu%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/</link>
+    <pubDate>Tue, 14 Mar 2023 19:35:31 &#43;0800</pubDate>
+    <author>AllenJi</author>
+    <guid>http://example.org/posts/hbu%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/</guid>
+    <description><![CDATA[作业 1-ML 基础 1、监督学习、无监督学习 监督学习：从标注数据种学习预测模型 无监督学习：从无标记的训练数据中推断结论 2、分类、回归 分类：将事务分成特]]></description>
+</item>
+</channel>
+</rss>
